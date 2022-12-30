@@ -1,10 +1,5 @@
 # ReactJS Voting App with Bootstrap
 
-# React Bootstrap Starter
-This app uses React Bootstrap Starter, Create React App, react-bootstrap, gh-pages.
-React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisdev.netlify.app). 
-
-
 ## Download and Installation
 
 To begin using, choose one of the following options to get started:
@@ -41,3 +36,6 @@ Copyright 2022 Ilyas Kazi. Code released under the [MIT license](LICENSE).
 
 ## Status
 Development stage. Please comeback later.
+
+Note: This app uses React Bootstrap Starter, Create React App, react-bootstrap, gh-pages.
+React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisdev.netlify.app).
