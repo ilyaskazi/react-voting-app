@@ -1,4 +1,4 @@
-# ReactJS Voting App with Bootstrap
+# React Voting App with Bootstrap
 
 ## Download and Installation
 
