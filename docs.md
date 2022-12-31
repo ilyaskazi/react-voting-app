@@ -1,24 +1,18 @@
 ![image-banner](./screenshots/react-bootstrap-starter.png)
 
-> This is an update to the previous article I wrote on [React & Bootstrap Starter Template](https://chrisdev.hashnode.dev/react-and-bootstrap-starter-template)
-
 ## Why a Template?
 
 It's because they save time.
 
-The process of setting up a project can be always frustrating and it's always repetitive. That's why I have a template for almost every stack I do.
+The process of setting up a project can be always frustrating and it's always repetitive. A starter template is good to remain focus on core requirements of the project.
 
 # React & Bootstrap
 
 I love using Bootstrap because of the almost Zero configuration and the hustle of designing a responsive web layout is taken care of so I just focus on how a site would look.
 
-**Updates ...**
-
-I wrote a similar article and after some updates here and there, I made a few changes and decided to re-write the article, of course after updating my template.
-
 ## Components:
 
-I have 4 ready-to-use components:
+Ready-to-use components:
 
 1.  ### Meta
 
@@ -93,7 +87,7 @@ I have 4 ready-to-use components:
 
 ## Pages
 
-For the template, I used 2 sample pages: the landing page and about page.
+For the template, 2 sample pages: the landing page and about page.
 
 1. Home Page
 2. About Page
@@ -104,4 +98,5 @@ I used react router-dom to set the two pages up.
 
 ![app](./screenshots/APP-RXT.png)
 
+Starter template Author's link:
 https://chrisdocs.vercel.app/docs/react-bootstrap-starter
