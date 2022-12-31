@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
     <div>
-      <Meta title={pageTitle}/>
+      <Meta title={pageTitle} description={pageDescription} />
       <Header head={pageTitle} description={pageDescription} />
     </div>
   )
