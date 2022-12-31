@@ -4,7 +4,7 @@ import Meta from '../components/Meta'
 const About = () => {
   // page content
   const pageTitle = 'About'
-  const pageDescription = 'welcome to react bootstrap template'
+  const pageDescription = 'welcome to react voting app'
 
   return (
     <div>
