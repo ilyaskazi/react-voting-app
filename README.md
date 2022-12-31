@@ -32,10 +32,9 @@ Have a bug or an issue with this repo? Open a new issue here on GitHub.
 
 ## Copyright and License
 
-Copyright 2022 Ilyas Kazi. Code released under the [MIT license](LICENSE).
+Copyright 2022 (c) Ilyas Kazi. Code released under the [MIT license](LICENSE).
 
 ## Status
 Development stage. Please comeback later.
 
-Note: This app uses React Bootstrap Starter, Create React App, react-bootstrap, gh-pages.
-React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisdev.netlify.app).
+Note: This app uses Create React App, react-bootstrap and other libs.
