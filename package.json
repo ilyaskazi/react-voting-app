@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-starter",
+  "name": "react-voting-app",
   "version": "0.4.0",
   "private": true,
   "dependencies": {
